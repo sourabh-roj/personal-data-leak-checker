@@ -1,0 +1,42 @@
+body {
+  font-family: Arial;
+  background: #121212;
+  color: white;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.container {
+  width: 350px;
+}
+
+input, button {
+  width: 100%;
+  padding: 10px;
+  margin: 8px 0;
+}
+
+.bar {
+  height: 8px;
+  background: gray;
+}
+
+#strength {
+  height: 8px;
+  width: 0%;
+  background: red;
+}
+.critical {
+  color: #ff4d4d;
+  font-weight: bold;
+}
+
+.warning {
+  color: #ffcc00;
+}
+
+.info {
+  color: #4da6ff;
+}
