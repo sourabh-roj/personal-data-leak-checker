@@ -223,7 +223,6 @@ This project demonstrates practical mitigation strategies used in real-world sec
 
 SOURABH ROJ
 B.Tech CSE (Cyber Security)
-Aspiring Security Engineer
 
 ---
 
