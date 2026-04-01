@@ -213,11 +213,6 @@ This project demonstrates practical mitigation strategies used in real-world sec
 
 ---
 
-## 💼 Resume Description
-
-> Built a full-stack Password Exposure & Breach Detection application using Node.js, Express, MongoDB, and vanilla JavaScript. Implemented SHA-256 hashing with salting, entropy-based scoring, breach hash comparison, rate limiting, and secure logging. Applied secure coding practices including input validation, XSS protection, and brute-force mitigation.
-
----
 
 ## 👨‍💻 Author
 
