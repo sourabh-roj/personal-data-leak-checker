@@ -4,6 +4,8 @@ A full-stack cybersecurity web application that simulates a mini version of a br
 
 This tool analyzes password strength, detects exposure against a local breach database, calculates entropy, assigns risk levels, and provides actionable security recommendations — all built from scratch using secure coding practices.
 
+https://personal-data-leak-checker-fqxm.onrender.com/
+
 ---
 
 ## 🚀 Features
